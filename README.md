@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smoli
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning SAP BTP
+- 🌱 I’m currently learning SAP BTP, Angular and directus
 
 <!---
 smoli/smoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
