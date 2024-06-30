@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smoli
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning .net and C#
 
 <!---
 smoli/smoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
